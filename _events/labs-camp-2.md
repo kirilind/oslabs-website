@@ -1,0 +1,61 @@
+---
+layout: default
+title: OuiShare Labs Camp #2 Paris 2014
+date: 2014-05-01 10:00:00
+dateend: 2014-05-04 18:00:00
+permalink: events/ouishare-labs-camp-paris-2014/
+tags: 
+---
+
+<ul class="nostyle"><li><strong>What?</strong> Collaborative environment for hacking and visioning<br /></li>
+<li><strong>Who?</strong> Coders and visionaries working on open source tools to fuel the collaborative economy<br /></li>
+<li><strong>When?</strong> May 1-4, 2014, just before the <a href="http://www.ouisharefest.com/">OuiShare Fest 2014</a><br /></li>
+<li><strong>Where?</strong> <a href="http://simplon.co/">Simplon.co</a> - 55 rue de Vincennes, 93100 Montreuil, Île-de-France </li></ul>
+
+###About Labs Camp###
+
+OuiShare Labs Camp is a free pop-up hub uniting developers and visionaries in the global social web and collaborative economy communities. We come together for four days of connecting, coding and creating. The Camp will feature keynotes, project pitches and work sessions proposed by participants.
+<!--break-->
+Presented projects will be mapped, described and showcased on the third day of OuiShare Fest, May 7th, at the Cabaret Sauvage during the [OuiShare Fest Sharing Fair](http://ouisharefest.com/program#_sharing_fair). During the Camp we will also be building tools that facilitate ongoing connecting and co-creation throughout the year - that is, this website and anything else you want to come up with.
+
+###Things to do###
+
+* Register yourself and let us know about your skillsets, ideas and intentions in the [Individual Registration Form](http://goo.gl/0RPBeQ) 
+* Tell us about the projects you bring in the [Project Registration Form](http://goo.gl/23Tjb5) 
+* Add yourself to the [Facebook event](https://www.facebook.com/events/248376575333608/)
+* [Sign up on this website with Persona](http://labs.ouishare.net/user) (or [just sign up](http://labs.ouishare.net/user/register)) 
+* Add yourself and places of interest to the [collaborative map](http://goo.gl/maps/DQpCi)
+
+**Bring your idea or code to share, or come to find connections!**
+
+###Schedule###
+
+Most of the agenda will be co-created at the beginning of each day. We will have a keynote (or two) on some mornings, followed by Open Space work sessions proposed by participants. At the end of each day we will gather and review what has been done. There will also be a short session of project pitches (3 minutes each) once or twice a day.
+
+1 May - start at 09:00 with opening the doors, check-in, morning coffee, tea. Bring your breakfast if you want!
+
+###Venue###
+
+You can access Simplon from north by **subway 9, station Croix de Chavaux** (8 min walk) or from south by **RER A, station Vincennes** (12 min walk). There are several [Vélib' (city bike)](http://en.velib.paris.fr/) stations nearby. Take a look at the collaborative map for a more detailed plan! You can also check out [Vianavigo journey planner](http://vianavigo.com/en/routes-district-maps/) to find out the best route for you.
+
+###Food###
+
+We will be sharing and preparing some food together onsite (there is a kitchen). You are welcome to bring food and drinks to share or to contribute to the meals hat however you can. 
+There are also many grocery stores, pubs and restaurants around Croix de Chavaux station. 
+
+**Attention! May 1st is a holiday with all facilities closed.** Please think about bringing some food with you. We will cook a collaborative lunch.
+
+### Supported by###
+<p><a href="http://simplon.co" target="_blank"><img src="https://24.media.tumblr.com/21fc339d0ed0281bed3b523d59094523/tumblr_m3td7oJ9qb1ro7srco4_r1_250.png" border="0" /></a></p>
+<p>&nbsp;</p>
+
+
+### Links
+
+- [See participants](http://goo.gl/yo2apJ)
+- [Registered projects](http://goo.gl/liZrsB)
+- [Collaborative map](http://goo.gl/maps/DQpCi)
+
+## Camp results and follow-ups
+
+...
