@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  Pressformore
+id: pressformore
 permalink: projects/pressformore/
 meta: Pressformore is a social network on which anyone will be able to create, filter, share, propose or back information they really care about.
 categories: product platform

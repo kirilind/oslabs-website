@@ -1,5 +1,6 @@
 ---
 layout: project
+id: freedombox
 title: Freedombox
 meta: The FreedomBox is a personal server for your home, designed to give you back control over your identity, personal data, and communication.
 permalink: projects/freedombox/
@@ -7,7 +8,7 @@ status: product
 categories: os device
 tags: freedombox home-server peer-to-peer
 labs: labs-camp-2
-website:
+website: http://freedomboxfoundation.org/
 source: 
 image:
 ---

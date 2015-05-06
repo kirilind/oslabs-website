@@ -1,6 +1,7 @@
 ---
 layout: project
 title: MMM
+id: mmm
 meta: A joint, interoperable platform and initiative, inspired by and based on OpenStreetMap
 permalink: projects/mmm/
 status: idea

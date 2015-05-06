@@ -1,10 +1,10 @@
 ---
-layout: default
-title: OuiShare Labs Camp #2 Paris 2014
+layout: event
+title: OuiShare Labs Camp &num;2 Paris 2014
 date: 2014-05-01 10:00:00
 dateend: 2014-05-04 18:00:00
 permalink: events/ouishare-labs-camp-paris-2014/
-tags: 
+tags: OuiShare-Labs-Camp
 ---
 
 <ul class="nostyle"><li><strong>What?</strong> Collaborative environment for hacking and visioning<br /></li>

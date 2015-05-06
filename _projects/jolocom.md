@@ -1,5 +1,6 @@
 ---
 layout: project
+id: jolocom
 title: JOLOCOM
 meta: "Jolocom is a simple, distributed visualisation tool that displays high level connections between users’ personal contacts, projects, information and disparate APIs, as well as from sensors and devices The Internet of Things."
 permalink: projects/jolocom/
@@ -7,7 +8,7 @@ categories: platform
 status: idea
 tags: P2P SOCAP IoT Collaboration Information-Sharing Linked-Data
 participation: labs-camp-2
-website:
+website: http://www.jolocom.com
 source: 
 image:
 ---

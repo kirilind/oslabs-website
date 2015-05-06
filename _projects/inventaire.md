@@ -1,5 +1,6 @@
 ---
 layout: project
+id: inventaire
 title: Inventaire
 meta: Project to offer a decentralized way to declare resources through the constitution of personal and business inventories.
 permalink: projects/inventaire/
@@ -14,6 +15,9 @@ image:
 
 
 
-Project to offer a decentralized way to declare resources through the constitution of personal and business inventories. Communication channel: sementic web Disambiguation: tagging items with respublica.io entities
+Project to offer a decentralized way to declare resources through the constitution of personal and business inventories. 
+
+- Communication channel: semantic web 
+- Disambiguation: tagging items with respublica.io entities
 
 

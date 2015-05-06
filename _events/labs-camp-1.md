@@ -1,9 +1,10 @@
 ---
-layout: default
-title: OuiShare Labs Camp #1
+layout: event
+title: OuiShare Labs Camp &num;1
 date: 2013-05-05 10:00:00
 dateend: 2013-05-07 18:00:00
 permalink: events/ouishare-labs-camp-1/
+redirect_from: "/camp1"
 tags: labs OuiShare-Labs-Camp ouishare Collaborative-Economy Interoperability DataPortability VRM P2P-RM PersonalClouds
 ---
 

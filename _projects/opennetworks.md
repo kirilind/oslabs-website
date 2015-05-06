@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Open Networks
+id: opennetworks
 meta: Project page for the Open Networks group of projects, including Open Decentralised Data Profiles, andShare, OVNi, Human Search and Activity Stream. 
 permalink: projects/opennetworks/
 status: idea

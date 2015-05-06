@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Linked Wishlists
+id: linked-wishlists
 meta: Self hosted lists of requests/offers (wishlists) and way to query them across networks of peers
 permalink: projects/linked-wishlists/
 status: idea alpha

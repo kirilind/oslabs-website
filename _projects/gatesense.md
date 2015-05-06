@@ -1,5 +1,6 @@
 ---
 layout: project
+id: gatesense
 title: Gatesense
 meta: Gatesense is a collaborative platform to share data from devices and sensors (Internet of Things)
 permalink: projects/gatesense/

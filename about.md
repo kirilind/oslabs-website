@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+OuiShare Labs is an emerging network of web developers, app and platform makers within and around the global OuiShare community.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+It was started in 2013 by OuiShare Connectors [Maxime Lathuilière]() and [Elf Pavlik](), who organised the first annual [OuiShare Labs Camp](/events/ouishare-labs-camp-1/) after OuiShare Fest 2013. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[See the list of OuiShare Labs past and upcoming events](/events/)
+
+

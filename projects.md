@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Projects list
+xtitle: Projects list
 permalink: /projects/
 ---
 
+{% comment %}
+
 <div class="home">
 
-  <h1 class="page-heading">Projects llist</h1>
+  <h1 class="page-heading">Projects list</h1>
 
   <ul class="post-list">
     {% for project in site.projects %}
@@ -23,3 +25,5 @@ permalink: /projects/
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+
+{% endcomment %}
