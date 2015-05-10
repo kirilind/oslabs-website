@@ -10,7 +10,7 @@ tags: freedombox home-server peer-to-peer
 labs: labs-camp-2
 website: http://freedomboxfoundation.org/
 source: 
-image:
+image: freedombox.png
 ---
 
 

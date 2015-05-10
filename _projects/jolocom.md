@@ -10,7 +10,7 @@ tags: P2P SOCAP IoT Collaboration Information-Sharing Linked-Data
 participation: labs-camp-2
 website: http://www.jolocom.com
 source: 
-image:
+image: jolocom.png
 ---
 
 

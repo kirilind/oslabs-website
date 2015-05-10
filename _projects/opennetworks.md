@@ -10,10 +10,10 @@ tags: open-network open-value-network OVN OVNi SENSORICA andShare profile
 labs: labs-camp-2
 website: 
 source: 
-image:
+image: opennetworks.jpg
 ---
 
-Project page for the Open Networks group of projects, including: Open Decentralised Data Profiles, &Share, OVNi, Human Search and Activity Stream.
+Project page for the Open Networks group of projects, including: Open Decentralised Data Profiles, &amp;Share, OVNi, Human Search and Activity Stream.
 
 <p>To get involved, please follow the links and request to join the Drive and Groups.</p>
 

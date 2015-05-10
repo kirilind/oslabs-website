@@ -2,7 +2,9 @@
 layout: project
 title: MMM
 id: mmm
-meta: A joint, interoperable platform and initiative, inspired by and based on OpenStreetMap
+meta: > 
+  A joint, interoperable platform and initiative, 
+  inspired by and based on OpenStreetMap
 permalink: projects/mmm/
 status: idea
 categories: platform initiative
@@ -10,7 +12,7 @@ tags: sharing mutualism openstreetmap osm society economy transformation geocouc
 labs: labs-camp-2
 website: http://14mmm.org/
 source: 
-image:
+image: mmm.png
 ---
 
 Join a global process for mapping all alternatives to the dominant economic system. A joint, interoperable platform and initiative, inspired by and based on OpenStreetMap (OSM). There are Thousands of Alternatives. We make them visible! 

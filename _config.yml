@@ -2,7 +2,7 @@
 title: OuiShare Labs
 email: labs@ouishare.net
 description: > # this means to ignore newlines until "baseurl:"
-  OuiShare Labs is connecting the actors in open web.
+  Connecting actors in the Open Web
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ouisharelabs
@@ -10,6 +10,10 @@ github_username:  ouisharelabs
 
 # Build settings
 markdown: kramdown
+
+# Gems
+gems:
+  - jekyll-redirect-from
 
 # Content types
 collections:

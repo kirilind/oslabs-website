@@ -10,7 +10,7 @@ tags: IoT P2P SOCAP Riot-OS
 labs: labs-camp-2
 website: http://www.gatesense.com
 source: 
-image:
+image: gatesense.png
 ---
 
 Gatesense is a collaborative platform to share data from devices and sensors (Internet of Things).
