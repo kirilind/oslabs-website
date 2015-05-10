@@ -1,0 +1,30 @@
+{% if webmention.relative_path contains page.url %}
+<hr/>
+{% endif %}
+
+<section class="h-feed">
+  <ul>
+    {% for webmention in site.webmentions %}
+      {% if webmention.relative_path contains page.url %}
+        <li>
+          <article class="h-entry" itemprops="comment">
+            <header class="h-card">
+              <h1>
+                <a href="{{ webmention.author_url }}">
+                  {% if webmention.author_image %}<img src="{{ webmention.author_image }}">{% endif %}
+                  {{ webmention.author_name }}
+                </a>
+              </h1>
+            </header>
+            <div class="p-name p-summary e-content">{{ webmention.output }}</div>
+            <footer>
+              <cite>via <a href="{{ webmention.source }}">{% if webmention.via %}{{ webmention.via }}{% else %}{{ webmention.source }}{% endif %}</a>, {{ webmention.date | date: "%-d/%-m/%y" }}</cite>
+            </footer>
+          </article>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <!--<p>To comment, send a webmention - or, if you don't know how, send an email to <a target="_blank" href="mailto:webmention@questo.email?subject={{ site.url }}{{ page.url }}">webmention@questo.email</a> with the URL of this post as the subject.</p> -->
+</section>
