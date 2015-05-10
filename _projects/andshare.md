@@ -1,5 +1,4 @@
 ---
-layout: project
 id: andshare
 title: AndShare
 meta: >
