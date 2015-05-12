@@ -48,4 +48,4 @@ img.project-logo {
 
 .h-feed img {max-width: 100%;}
 .h-feed cite, .h-feed p {padding:0;margin:0;}
-.h-feed {border-bottom:1px solid #eee;padding-bottom: 10px;}
+.h-feed {border-top:1px solid #eee;padding-top: 10px;padding-bottom: 10px;}
