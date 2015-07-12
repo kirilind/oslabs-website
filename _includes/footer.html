@@ -7,6 +7,7 @@
 
     <div class="row h-card">
       <div class="col-md-4">
+        <img class="u-photo" src="{{site.baseurl}}/img/oslabs-cogs.svg" style="max-width:100%; height:40px; float:left; padding-right:10px;"/>
         <ul class="list-unstyled">
           <li class="p-name">{{ site.title }}</li>
           <li class="p-note">{{ site.description }}</li>
@@ -21,7 +22,7 @@
             <a href="mailto:{{ site.email }}" rel="me" class="u-email"><i class="fa fa-envelope-o fa-2x"></i></a>
           </li>
           {% endif %}
-          
+
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}" rel="me" target="_blank"><i class="fa fa-github fa-2x"></i></a>
