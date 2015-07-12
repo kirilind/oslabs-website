@@ -4,15 +4,20 @@ layout: default
 
 <div class="row">
   <div class="col-md-8">
-    {% include pieces/camp3_banner.html %}
+    {% include pieces/camp3_photo.html %}
 
     <div class="row">
       <div class="col-md-6">
+        {% include pieces/home_about.html %}
+      </div>
+      <div class="col-md-6">
         {% include pieces/camp3_info.html %}
       </div>
+      {% comment %}
       <div class="col-md-6">
         {% include pieces/meetup.html %}
       </div>
+      {% endcomment %}
 
     </div>
   </div>
