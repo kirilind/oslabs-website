@@ -4,6 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
+Here you can find a list of projects that participated in [OuiShare Labs Camp 2014](/events/ouishare-labs-camp-paris-2014/). To see the projects from 2015 editiion, please check the [Labs Camp 2015 page](http://camp.ouisharelabs.net/2015/#apps).
+
+
+
 <div class="list-group">
   {% for project in site.projects %}
     {% if project.title %}
